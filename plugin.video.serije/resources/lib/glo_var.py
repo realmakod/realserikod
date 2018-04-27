@@ -27,7 +27,7 @@ import sys
 AddonID             = xbmcaddon.Addon().getAddonInfo('id')
 THISADDON           = xbmcaddon.Addon(id=AddonID)
 ADDON_ID            = xbmcaddon.Addon().getAddonInfo('id')
-URL                 = 'http://www.yoursite.com/tutorial/'
+URL                 = 'https://github.com/realmakod/realserikod/tree/master/plugin.video.serije/'
 ADDONTITLE          = ’Serije i Koncerti’
 USER_AGENT          = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:18.0) Gecko/20100101 Firefox/18.0'
 #######################################################################
